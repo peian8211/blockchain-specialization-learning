@@ -1,16 +1,18 @@
-# Blockchain Specialization - Learning Notes  
+# Blockchain Voting Insights
+A Side Project documenting my Blockchain Specialization learning from Coursera, with a simple voting contract demo.
 
-## About this Repository  
-This repository contains my learning notes and key takeaways from the **Blockchain Specialization** course on Coursera.  
+## Overview
+This repository records my learning from the Coursera Blockchain Specialization (University at Buffalo) and includes a minimal voting smart contract deployed on Sepolia testnet. 
 
-- **Fundamental blockchain concepts**: consensus mechanisms, cryptographic security, smart contracts, and decentralization.  
-- **Blockchain applications & use cases**: how blockchain impacts Web3 business models, tokenomics, and fintech.  
-- **Business view in Web3**: challenges, strategies, and considerations when managing blockchain-based projects.  
+## Features
+- Notes from 4 Coursera courses: Blockchain Basics, Smart Contracts, Dapps, and Blockchain Platforms.
+- Voting smart contract (Solidity) deployed on Sepolia testnet.
 
-## Course Structure  
-The repository follows the structure of the **Blockchain Specialization** course, covering:  
+## Tech Stack
+- Blockchain: Ethereum, Solidity
+- Tools: Remix, Sepolia Testnet
 
-1. **Blockchain Basics** – Cryptography, consensus, blockchain structure.  
-2. **Smart Contracts** – Ethereum, Solidity, and contract design considerations.  
-3. **Decentralized Applications (DApps)** – Web3 architecture and development best practices.  
-4. **Tokenomics & Business Models** – How blockchain changes financial systems and digital assets.
+## Test
+1. View contract: `smart-contracts/Voting.sol`
+2. Deployed on Sepolia: [0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8]
+   https://sepolia.etherscan.io/tx/0x54a361e6f74e8676cc464cf843c466b22daff6732d9f9d54d180af1df2ace228
