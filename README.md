@@ -1,4 +1,4 @@
-# Blockchain Voting Insights
+# Blockchain Specialization - Learning Notes
 A Side Project documenting my Blockchain Specialization learning from Coursera, with a simple voting contract demo.
 
 ## Overview
